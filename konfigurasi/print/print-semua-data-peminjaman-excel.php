@@ -72,6 +72,11 @@ $spreadsheet->getActiveSheet()->getColumnDimension('F')->setAutoSize(true);
 $spreadsheet->getActiveSheet()->getColumnDimension('G')->setAutoSize(true);
 $spreadsheet->getActiveSheet()->getColumnDimension('H')->setAutoSize(true);
 
+//Format  ID ke Number
+$spreadsheet->getActiveSheet()->getStyle('B')
+    ->getNumberFormat()
+    ->setFormatCode(\PhpOffice\PhpSpreadsheet\Style\NumberFormat::FORMAT_NUMBER);
+
 //font, fill header
 $styleArray = [
     'font' => [
@@ -104,6 +109,7 @@ $styleArray = array(
 );
 
 $spreadsheet->getActiveSheet()->getStyle('A1:H'.$row)->applyFromArray($styleArray);
+
 
 
 //---------------------------------------------------------------------------

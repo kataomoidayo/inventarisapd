@@ -77,7 +77,7 @@ require '../konfigurasi/crud/konfig-input-data-alat.php';
 
 										<div class="form-group mb-3">
 											<label for="jumlah_alat">Jumlah alat</label>
-											<input type="text" class="form-control border border-dark"
+											<input type="number" class="form-control border border-dark"
 												name="jumlah_alat" placeholder="Masukkan jumlah alat" required>
 										</div>
 
@@ -116,7 +116,7 @@ require '../konfigurasi/crud/konfig-input-data-alat.php';
 										<div class="form-group mb-3">
 											<label for="foto_alat">Foto alat</label>
 											<input type="file" class="form-control border border-dark"
-												name="foto_alat" />
+												name="foto_alat" required/>
 										</div>
 									</div>
 								</div>

@@ -6,7 +6,7 @@
                 <ul class="list-inline list-inline-dots mb-0">
                     <li class="list-inline-item">
                         Copyright &copy; 2022-<?php echo date("Y");?>
-                        <a href="." class="link-secondary">K3 dan KAM</a>.
+                        <a href="." class="link-secondary">K3 dan KAM - PT. PLN (Persero) UPT Bali</a>.
                         All rights reserved.
                     </li>
                 </ul>

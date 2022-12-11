@@ -46,10 +46,10 @@ while ($data = mysqli_fetch_array($query)) {
     $sheet->setCellValue('I' . $row, $data['merk_alat']);
     $sheet->setCellValue('J' . $row, $data['sertifikasi']); 
 
-    //print foto
+    //print foto alat
     $drawing = new \PhpOffice\PhpSpreadsheet\Worksheet\Drawing();
     $drawing -> setPath('../'.$data['foto_alat']);
-    $drawing->setName('Kode QR');
+    $drawing->setName('Foto Alat');
     $drawing->setCoordinates('K3');
     $drawing->setWidthAndHeight(150, 150);
     $drawing->setWorksheet($spreadsheet->getActiveSheet());
@@ -79,8 +79,8 @@ $sheet->getStyle('A:L')->getAlignment()->setHorizontal('center');
 $sheet->getStyle('A:L')->getAlignment()->setVertical('center');
 
 //lebar kolom khusus untuk kolom gambar dan qr
-$spreadsheet -> getActiveSheet() -> getColumnDimension('K') -> setWidth(23);
-$spreadsheet -> getActiveSheet() -> getColumnDimension('L') -> setWidth(23);
+$spreadsheet -> getActiveSheet() -> getColumnDimension('K') -> setWidth(24);
+$spreadsheet -> getActiveSheet() -> getColumnDimension('L') -> setWidth(24);
 
 //merge cell header
 $spreadsheet->getActiveSheet()->mergeCells('A1:A2');
@@ -112,6 +112,12 @@ $spreadsheet->getActiveSheet()->getColumnDimension('G')->setAutoSize(true);
 $spreadsheet->getActiveSheet()->getColumnDimension('H')->setAutoSize(true);
 $spreadsheet->getActiveSheet()->getColumnDimension('I')->setAutoSize(true);
 $spreadsheet->getActiveSheet()->getColumnDimension('J')->setAutoSize(true);
+
+
+//Format  ID ke Number
+$spreadsheet->getActiveSheet()->getStyle('A')
+    ->getNumberFormat()
+    ->setFormatCode(\PhpOffice\PhpSpreadsheet\Style\NumberFormat::FORMAT_NUMBER);
 
 
 

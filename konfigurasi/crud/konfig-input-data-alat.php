@@ -45,7 +45,7 @@ if (isset($_POST['submit'])) {
     empty($post_safe_work_load) ||
     empty($post_merk_alat) ||
     empty($post_sertifikasi) ||
-    empty($folder)) {
+    empty($foto)) {
         
         echo "
         <script type='text/javascript'>
