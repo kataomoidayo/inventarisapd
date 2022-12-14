@@ -69,7 +69,7 @@ $spreadsheet->getActiveSheet()->getColumnDimension('G')->setAutoSize(true);
 
 
 //Format  ID ke Number
-$spreadsheet->getActiveSheet()->getStyle('B')
+$spreadsheet->getActiveSheet()->getStyle('A')
     ->getNumberFormat()
     ->setFormatCode(\PhpOffice\PhpSpreadsheet\Style\NumberFormat::FORMAT_NUMBER);
 
