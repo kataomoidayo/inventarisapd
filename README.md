@@ -131,9 +131,13 @@ Halaman Data Peminjaman/Tabel Data Peminjaman.
 Tampilan notifikasi/Alert kustom yang terdapat pada sistem
 
 >![Screenshot 2022-12-15 000832](https://user-images.githubusercontent.com/114056087/207650167-dd7b6db0-031f-44d7-8bbe-457bfb25d61b.png)
+
 >![Screenshot 2022-12-15 000742](https://user-images.githubusercontent.com/114056087/207650234-9ffc6ac5-45ce-43ad-b283-5ebb6b9a343e.png)
+
 >![Screenshot 2022-12-15 000946](https://user-images.githubusercontent.com/114056087/207650296-4667c219-fa61-4c81-9e7b-8d24f7ee49d0.png)
+
 >![Screenshot 2022-12-15 001055](https://user-images.githubusercontent.com/114056087/207650339-b3d347a4-e991-4252-9700-ce7d4ed21feb.png)
+
 >![Screenshot 2022-12-15 001117](https://user-images.githubusercontent.com/114056087/207650388-dcb16613-9a2b-4b3e-a20a-a66694eef5fd.png)
 
 
@@ -148,7 +152,25 @@ Tampilan notifikasi/Alert kustom yang terdapat pada sistem
 ### Tampilan Web Pada Mobile 
 Tampilan dari web ketika di akses menggunakan perangkat mobile/ponsel.
 
->
+
+>![Screenshot_2022-12-15-01-11-32-549_com android chrome](https://user-images.githubusercontent.com/114056087/207663189-e90f1e91-25a5-486d-8528-9e233ea2552b.jpg)
+
+>![Screenshot_2022-12-15-01-11-42-781_com android chrome](https://user-images.githubusercontent.com/114056087/207663237-b73e6fc7-c0aa-47bb-8d4c-b4b8b1b33b89.jpg)
+
+>![Screenshot_2022-12-15-01-11-48-506_com android chrome](https://user-images.githubusercontent.com/114056087/207663261-d4ca2bef-158f-4501-ae8a-9ab7c7ccf508.jpg)
+
+>![Screenshot_2022-12-15-01-11-54-831_com android chrome](https://user-images.githubusercontent.com/114056087/207663289-94381702-92b5-4248-8e10-7c1ae346d51d.jpg)
+
+>![Screenshot_2022-12-15-01-12-06-549_com android chrome](https://user-images.githubusercontent.com/114056087/207663648-52fe2950-9a49-4836-879a-af65f51bae52.jpg)
+
+>![Screenshot_2022-12-15-01-12-11-395_com android chrome](https://user-images.githubusercontent.com/114056087/207663724-feb1ce2e-d27a-4453-a47a-e60bee252ec9.jpg)
+
+>![Screenshot_2022-12-15-01-12-02-853_com android chrome](https://user-images.githubusercontent.com/114056087/207663492-ad31cbfe-2e5e-4476-9be7-5aefd0956d65.jpg)
+
+>![Screenshot_2022-12-15-01-12-30-169_com android chrome](https://user-images.githubusercontent.com/114056087/207663925-e34d04c0-e6cb-4c9f-8806-0308f8ad07f9.jpg)
+
+>![Screenshot_2022-12-15-01-12-23-378_com android chrome](https://user-images.githubusercontent.com/114056087/207663949-022a781e-942d-4ffe-8b9e-9a94e209a146.jpg)
+
 
 
 
