@@ -21,6 +21,9 @@ Ini Merupakan Web **Sistem Manajemen Inventaris APD (Alat Pelindung Diri) dengan
 
 ## Dokumentasi
 
+### Database
+>Nama database : inventaris
+
 ### Username dan Password Login Default atau Bawaan
 
 >Username  : admin
