@@ -130,15 +130,15 @@ Halaman Data Peminjaman/Tabel Data Peminjaman.
 ### 7. Notifikasi/Alert kustom yang terdapat pada sistem
 Tampilan notifikasi/Alert kustom yang terdapat pada sistem
 
-> <img src="https://user-images.githubusercontent.com/114056087/207650167-dd7b6db0-031f-44d7-8bbe-457bfb25d61b.png" width = "800"/>
+> <img src="https://user-images.githubusercontent.com/114056087/207650167-dd7b6db0-031f-44d7-8bbe-457bfb25d61b.png" width = "400"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/207650234-9ffc6ac5-45ce-43ad-b283-5ebb6b9a343e.png" width = "800"/>
+> <img src="https://user-images.githubusercontent.com/114056087/207650234-9ffc6ac5-45ce-43ad-b283-5ebb6b9a343e.png" width = "400"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/207650296-4667c219-fa61-4c81-9e7b-8d24f7ee49d0.png" width = "800"/>
+> <img src="https://user-images.githubusercontent.com/114056087/207650296-4667c219-fa61-4c81-9e7b-8d24f7ee49d0.png" width = "400"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/207650339-b3d347a4-e991-4252-9700-ce7d4ed21feb.png" width = "800"/>
+> <img src="https://user-images.githubusercontent.com/114056087/207650339-b3d347a4-e991-4252-9700-ce7d4ed21feb.png" width = "400"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/207650388-dcb16613-9a2b-4b3e-a20a-a66694eef5fd.png" width = "800"/>
+> <img src="https://user-images.githubusercontent.com/114056087/207650388-dcb16613-9a2b-4b3e-a20a-a66694eef5fd.png" width = "400"/>
 
 
 
