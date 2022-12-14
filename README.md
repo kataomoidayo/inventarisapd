@@ -153,7 +153,7 @@ Tampilan notifikasi/Alert kustom yang terdapat pada sistem
 Tampilan dari web ketika di akses menggunakan perangkat mobile/ponsel.
 
 
-> <img src="https://user-images.githubusercontent.com/114056087/207663189-e90f1e91-25a5-486d-8528-9e233ea2552b.jpg" width = "800"/>
+> <img src="https://user-images.githubusercontent.com/114056087/207663189-e90f1e91-25a5-486d-8528-9e233ea2552b.jpg" width = "500"/>
 
 > <img src="https://user-images.githubusercontent.com/114056087/207663237-b73e6fc7-c0aa-47bb-8d4c-b4b8b1b33b89.jpg" width = "800"/>
 
