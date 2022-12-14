@@ -15,7 +15,7 @@ Halaman Login.
 
 
 
-> <img src="https://user-images.githubusercontent.com/114056087/206891232-2e27d8ab-6d36-420d-af9c-5a2edf1a0eb7.png" width = "600"/>
+> <img src="https://user-images.githubusercontent.com/114056087/206891232-2e27d8ab-6d36-420d-af9c-5a2edf1a0eb7.png" width = "800"/>
 
 >![Masuk - Pribadi - Microsoft​ Edge 11_12_2022 13_03_48](https://user-images.githubusercontent.com/114056087/206891241-ad71ae94-d2ad-4183-ad13-f2a002850955.png)
 
