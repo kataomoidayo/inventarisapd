@@ -1,13 +1,10 @@
-# inventarisapd
+# Inventaris APD
 
 Ini Merupakan Web **Sistem Manajemen Inventaris APD (Alat Pelindung Diri) dengan Kode-QR**, yang saya bangun saat melaksanakan PKL/KP di unit **K3 dan KAM (Keselamatan Kesehatan Kerja dan Keamanan)** di **PT. PLN (Persero) UPT Bali** pada tahun 2022.
 
 
-## Fitur 
-
-
-## Tampilan Web Pada Desktop 
-
+## Dokumentasi dan Fitur 
+### Tampilan Web Pada Desktop 
 Tampilan dari web ketika di akses menggunakan Desktop.
 
 
@@ -89,11 +86,8 @@ Halaman Data Alat/Tabel Data Alat.
   
   
   ### 4.3 Export ke Microsoft Excel halaman Data Alat
-  Tampilan fitur untuk "Expor Satuan Data Alat" Ke Microsoft Excel beserta "Foto Alat dan Kode-QR" ketika tombol "Excel" di klik.
+  Tampilan fitur untuk "Expor Satuan Data Alat" ke Microsoft Excel beserta "Foto Alat dan Kode-QR" ketika tombol "Excel" di klik.
   
-  
-  
-  >![Screenshot 2022-12-11 153411](https://user-images.githubusercontent.com/114056087/206891745-41a660fa-f246-453f-b8fc-b99167131a7d.png)
   
   >![Data-alat-11-12-2022 15-05-45 - Excel 11_12_2022 15_07_26](https://user-images.githubusercontent.com/114056087/206891766-5118bbfc-ebed-48a4-b146-de9895c68d44.png)
 
@@ -115,6 +109,25 @@ Halaman Input Data Peminjaman.
 Halaman Data Peminjaman/Tabel Data Peminjaman.
 
 >![Inventaris - Pribadi - Microsoft​ Edge 11_12_2022 15_07_48](https://user-images.githubusercontent.com/114056087/206891880-d1bba86e-b81b-40d1-b054-8959d1da2f6f.png)
+
+  ### 6.1 Print Full/Print semua data peminjaman ke excel
+  Print/Ekspor seluruh data peminjaman yang ada Ke Microsoft Excel
+
+  >![Data-peminjaman-full-14-12-2022 23-58-11 - Excel 14_12_2022 23_59_24](https://user-images.githubusercontent.com/114056087/207645346-d954160f-9bbb-44c3-bb4f-d956886e771a.png)
+
+
+  ### 6.2 Print/Print satuan data peminjaman ke excel
+  Print/Ekspor satuan data peminjaman yang dipilih ada Ke Microsoft Excel
+
+  >![Data-peminjaman-15-12-2022 00-03-21 - Excel 15_12_2022 00_03_31](https://user-images.githubusercontent.com/114056087/207646225-be33a689-0018-4c30-96a2-07b96fac0c59.png)
+
+
+===========================================================================
+
+
+### 7. Notifikasi/Alert kustom yang terdapat pada sistem
+Tampilan notifikasi/Alert kustom yang terdapat pada sistem
+
 
 
 
