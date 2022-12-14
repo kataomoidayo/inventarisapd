@@ -153,23 +153,23 @@ Tampilan notifikasi/Alert kustom yang terdapat pada sistem
 Tampilan dari web ketika di akses menggunakan perangkat mobile/ponsel.
 
 
-> <img src="https://user-images.githubusercontent.com/114056087/207663189-e90f1e91-25a5-486d-8528-9e233ea2552b.jpg" width = "500"/>
+> <img src="https://user-images.githubusercontent.com/114056087/207663189-e90f1e91-25a5-486d-8528-9e233ea2552b.jpg" width = "400"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/207663237-b73e6fc7-c0aa-47bb-8d4c-b4b8b1b33b89.jpg" width = "800"/>
+> <img src="https://user-images.githubusercontent.com/114056087/207663237-b73e6fc7-c0aa-47bb-8d4c-b4b8b1b33b89.jpg" width = "400"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/207663261-d4ca2bef-158f-4501-ae8a-9ab7c7ccf508.jpg" width = "800"/>
+> <img src="https://user-images.githubusercontent.com/114056087/207663261-d4ca2bef-158f-4501-ae8a-9ab7c7ccf508.jpg" width = "400"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/207663289-94381702-92b5-4248-8e10-7c1ae346d51d.jpg" width = "800"/>
+> <img src="https://user-images.githubusercontent.com/114056087/207663289-94381702-92b5-4248-8e10-7c1ae346d51d.jpg" width = "400"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/207663648-52fe2950-9a49-4836-879a-af65f51bae52.jpg" width = "800"/>
+> <img src="https://user-images.githubusercontent.com/114056087/207663648-52fe2950-9a49-4836-879a-af65f51bae52.jpg" width = "400"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/207663724-feb1ce2e-d27a-4453-a47a-e60bee252ec9.jpg" width = "800"/>
+> <img src="https://user-images.githubusercontent.com/114056087/207663724-feb1ce2e-d27a-4453-a47a-e60bee252ec9.jpg" width = "400"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/207663492-ad31cbfe-2e5e-4476-9be7-5aefd0956d65.jpg" width = "800"/>
+> <img src="https://user-images.githubusercontent.com/114056087/207663492-ad31cbfe-2e5e-4476-9be7-5aefd0956d65.jpg" width = "400"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/207663925-e34d04c0-e6cb-4c9f-8806-0308f8ad07f9.jpg" width = "800"/>
+> <img src="https://user-images.githubusercontent.com/114056087/207663925-e34d04c0-e6cb-4c9f-8806-0308f8ad07f9.jpg" width = "400"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/207663949-022a781e-942d-4ffe-8b9e-9a94e209a146.jpg" width = "800"/>
+> <img src="https://user-images.githubusercontent.com/114056087/207663949-022a781e-942d-4ffe-8b9e-9a94e209a146.jpg" width = "400"/>
 
 
 
