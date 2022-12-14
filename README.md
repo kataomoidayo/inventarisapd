@@ -3,14 +3,42 @@
 Ini Merupakan Web **Sistem Manajemen Inventaris APD (Alat Pelindung Diri) dengan Kode-QR**, yang saya bangun saat melaksanakan PKL/KP di unit **K3 dan KAM (Keselamatan Kesehatan Kerja dan Keamanan)** di **PT. PLN (Persero) UPT Bali** pada tahun 2022.
 
 
-## Dokumentasi dan Fitur 
-Tampilan web pada Desktop dan perangkat mobile/ponsel.
+## Fitur
+
+- [x] Registrasi dan Login (Verifikasi email ketika registrasi dan lupa password belum dikonfigurasi karena perlu SMTP (Simple Mail Transfer Protocol)).
+- [x] Session login dan logout.
+- [x] CRUD (Create, Read, Update, dan Delete).
+- [x] Upload foto alat.
+- [x] Otomatis Generate Kode-QR saat data alat berhasil diinput.
+- [x] Otomatis memeriksa apakah foto alat diganti atau tidak ketika melakukan edit. Jika diganti, foto lama akan dihapus dari data dan penyimpanan lalu akan digantikan dengan foto yang baru. Jika tidak diganti, foto lama akan dipertahankan.
+- [x] Otomatis melakukan Generate Kode-QR baru dan menghapus Kode-QR lama dari penyimpanan ketika data alat diedit.
+- [x] Print/Ekspor satuan data alat beserta foto alat dan gambar Kode-QR ke excel.
+- [x] Print/Ekspor detail data alat ke pdf.
+- [x] Print/Ekspor full data atau satuan data peminjaman.
+- [x] Pencarian pada data alat dan data peminjaman.
+- [x] Kustom notifikasi dengan SweetAlert2 dan notifikasi normal dengan JavaScript.
+- [x] Download gambar Kode-QR (Pada halaman detail data alat).
+
+## Dokumentasi
+
+### Username dan Password Login Default atau Bawaan
+
+>Username  : admin
+>
+>Password  : admin
+
+Bisa juga melakukan pendaftaran/registrasi pada halaman daftar lalu melakukan login setelah berhasil terdaftar.
+
+
+### Sampel Kode-QR
+![IDM000206153-Helm](https://user-images.githubusercontent.com/114056087/207675085-b41d8d02-cf7a-48df-886f-0a6ba7d5e2d1.png)
+
 
 ### Tampilan Web Pada Desktop 
 Tampilan dari web ketika di akses menggunakan Desktop.
 
 
-1. Login
+#### 1. Login
 Halaman Login.
 
 
@@ -25,7 +53,7 @@ Halaman Login.
 ===========================================================================
 
 
-2. Home & Navigasi
+#### 2. Home & Navigasi
 Halaman Home/Dashboard & Navigasi.
 
 
@@ -42,7 +70,7 @@ Halaman Home/Dashboard & Navigasi.
 ===========================================================================
 
 
-3. Input Data Alat
+#### 3. Input Data Alat
 Halaman Input Data Alat.
 
 
@@ -55,7 +83,7 @@ Halaman Input Data Alat.
 ===========================================================================
 
 
-4. Data Alat
+#### 4. Data Alat
 Halaman Data Alat/Tabel Data Alat.
 
 
@@ -65,7 +93,7 @@ Halaman Data Alat/Tabel Data Alat.
 
 
 
-  4.1 Detail Alat
+  #### 4.1 Detail Alat
   Halaman Detail Alat muncul ketika tombol "Detail" pada Data Alat di klik.
   
   
@@ -76,7 +104,7 @@ Halaman Data Alat/Tabel Data Alat.
   
   
   
-  4.2 Edit Data Alat
+  #### 4.2 Edit Data Alat
   Halaman Edit Data Alat muncul ketika tombol "Edit" pada Data Alat di klik.
   
   
@@ -87,7 +115,7 @@ Halaman Data Alat/Tabel Data Alat.
   
   
   
-  4.3 Export ke Microsoft Excel halaman Data Alat
+  #### 4.3 Export ke Microsoft Excel halaman Data Alat
   Tampilan fitur untuk "Expor Satuan Data Alat" ke Microsoft Excel beserta "Foto Alat dan Kode-QR" ketika tombol "Excel" di klik.
   
   
@@ -97,7 +125,7 @@ Halaman Data Alat/Tabel Data Alat.
 ===========================================================================
 
 
-5. Input Data Peminjaman
+#### 5. Input Data Peminjaman
 Halaman Input Data Peminjaman.
 
 
@@ -107,18 +135,18 @@ Halaman Input Data Peminjaman.
 ===========================================================================
 
 
-6. Data Peminjaman
+#### 6. Data Peminjaman
 Halaman Data Peminjaman/Tabel Data Peminjaman.
 
 > <img src="https://user-images.githubusercontent.com/114056087/206891880-d1bba86e-b81b-40d1-b054-8959d1da2f6f.png" width = "800"/>
 
-  6.1 Print Full/Print semua data peminjaman ke excel
+  #### 6.1 Print Full/Print semua data peminjaman ke excel
   Print/Ekspor seluruh data peminjaman yang ada Ke Microsoft Excel
 
   > <img src="https://user-images.githubusercontent.com/114056087/207645346-d954160f-9bbb-44c3-bb4f-d956886e771a.png" width = "800"/>
 
 
-  6.2 Print/Print satuan data peminjaman ke excel
+  #### 6.2 Print/Print satuan data peminjaman ke excel
   Print/Ekspor satuan data peminjaman yang dipilih ada Ke Microsoft Excel
 
   > <img src="https://user-images.githubusercontent.com/114056087/207646225-be33a689-0018-4c30-96a2-07b96fac0c59.png" width = "800"/>
@@ -127,7 +155,7 @@ Halaman Data Peminjaman/Tabel Data Peminjaman.
 ===========================================================================
 
 
-7. Notifikasi/Alert kustom yang terdapat pada sistem
+#### 7. Notifikasi/Alert kustom yang terdapat pada sistem
 Tampilan notifikasi/Alert kustom yang terdapat pada sistem
 
 > <img src="https://user-images.githubusercontent.com/114056087/207650167-dd7b6db0-031f-44d7-8bbe-457bfb25d61b.png" width = "400"/>
@@ -149,7 +177,7 @@ Tampilan notifikasi/Alert kustom yang terdapat pada sistem
 ===========================================================================
 
 
-Tampilan Web Pada Mobile 
+### Tampilan Web Pada Mobile 
 Tampilan dari web ketika di akses menggunakan perangkat mobile/ponsel.
 
 
