@@ -4,6 +4,8 @@ Ini Merupakan Web **Sistem Manajemen Inventaris APD (Alat Pelindung Diri) dengan
 
 
 ## Dokumentasi dan Fitur 
+Tampilan web pada Desktop dan perangkat mobile/ponsel.
+
 ### Tampilan Web Pada Desktop 
 Tampilan dari web ketika di akses menggunakan Desktop.
 
@@ -127,6 +129,26 @@ Halaman Data Peminjaman/Tabel Data Peminjaman.
 
 ### 7. Notifikasi/Alert kustom yang terdapat pada sistem
 Tampilan notifikasi/Alert kustom yang terdapat pada sistem
+
+>![Screenshot 2022-12-15 000832](https://user-images.githubusercontent.com/114056087/207650167-dd7b6db0-031f-44d7-8bbe-457bfb25d61b.png)
+>![Screenshot 2022-12-15 000742](https://user-images.githubusercontent.com/114056087/207650234-9ffc6ac5-45ce-43ad-b283-5ebb6b9a343e.png)
+>![Screenshot 2022-12-15 000946](https://user-images.githubusercontent.com/114056087/207650296-4667c219-fa61-4c81-9e7b-8d24f7ee49d0.png)
+>![Screenshot 2022-12-15 001055](https://user-images.githubusercontent.com/114056087/207650339-b3d347a4-e991-4252-9700-ce7d4ed21feb.png)
+>![Screenshot 2022-12-15 001117](https://user-images.githubusercontent.com/114056087/207650388-dcb16613-9a2b-4b3e-a20a-a66694eef5fd.png)
+
+
+
+
+
+===========================================================================
+
+===========================================================================
+
+
+### Tampilan Web Pada Mobile 
+Tampilan dari web ketika di akses menggunakan perangkat mobile/ponsel.
+
+>
 
 
 
