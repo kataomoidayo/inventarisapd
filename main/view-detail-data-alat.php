@@ -27,7 +27,7 @@ require '../konfigurasi/view-data/konfig-detail-data-alat.php';
 							</ol>
 						</h3>
 					</div>
-					<h2 class="page-title">Detail alat</h2>
+					<h2 class="page-title">Detail data alat</h2>
 				</div>
 			</div>
 		</div>
@@ -130,7 +130,7 @@ require '../konfigurasi/view-data/konfig-detail-data-alat.php';
 											<tr>
 												<th>Foto Alat</th>
 												<td>
-													<?php echo '<img src="' . $data_alat['foto_alat'] . '" alt="Foto Alat" style="width: 100%; max-width:400px; height:100%; max-height: 400px;"/>'?>
+													<?php echo '<img src="' . $data_alat['foto_alat'] . '" alt="Foto Alat" style="width: 100%; max-width:350px; height:100%; max-height: 350px;"/>'?>
 												</td>
 											</tr>
 											<tr>

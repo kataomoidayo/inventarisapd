@@ -24,7 +24,7 @@
         <div class="card-body">
           <form action="./" method="get" autocomplete="off" novalidate>
             <div class="card-body">
-              <h2 class="text-center mb-4 fw-bold">Lupa password</h2>
+              <h2 class="text-center mb-4 fw-bold">Reset password</h2>
               <p class="text-muted mb-4">Dengan mengklik "Reset Password" kami akan mengirimkan link untuk reset
                 password ke Email anda.</p>
               <div class="mb-3">

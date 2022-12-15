@@ -19,7 +19,7 @@ require '../konfigurasi/crud/konfig-input-data-alat.php';
 									<a href="home.php">Home</a>
 								</li>
 								<li class="breadcrumb-item active" aria-current="page">
-									<a href="#">Form input data alat</a>
+									<a href="#">Input data alat</a>
 								</li>
 							</ol>
 						</h3>

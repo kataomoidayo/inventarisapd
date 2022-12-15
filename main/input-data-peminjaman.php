@@ -19,13 +19,13 @@ require '../konfigurasi/crud/konfig-input-data-peminjaman.php';
                                     <a href="home.php">Home</a>
                                 </li>
                                 <li class="breadcrumb-item active" aria-current="page">
-                                    <a href="#">Form peminjaman alat</a>
+                                    <a href="#">Input data peminjaman</a>
                                 </li>
                             </ol>
                         </h3>
                     </div>
                     <h2 class="page-title">
-                        Input Data Peminjaman
+                        Input data peminjaman
                     </h2>
                 </div>
             </div>

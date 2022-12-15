@@ -17,7 +17,7 @@ include 'template/header.php';
 									<a href="home.php">Home</a>
 								</li>
 								<li class="breadcrumb-item active" aria-current="page">
-									<a href="#">View data alat</a>
+									<a href="#">Data alat</a>
 								</li>
 							</ol>
 						</h3>

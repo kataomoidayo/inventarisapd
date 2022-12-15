@@ -27,7 +27,7 @@ require '../konfigurasi/konfig-login/konfig-registrasi.php';
       <div class="card card-md">
         <div class="card-body">
           <form method="post" autocomplete="off">
-            <h2 class="text-center mb-4 fw-bold">Daftar</h2>
+            <h2 class="text-center mb-4 fw-bold">Registrasi</h2>
             <div class="mb-3">
               <label class="form-label">Username</label>
               <input type="text" class="form-control" placeholder="Username" name="username" required>

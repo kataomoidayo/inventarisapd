@@ -85,10 +85,10 @@
 								</a>
 								<div class="dropdown-menu">
 									<a class="dropdown-item" href="view-data-alat.php">
-										Data Alat
+										Data alat
 									</a>
 									<a class="dropdown-item" href="view-data-peminjaman.php">
-										Data Peminjaman
+										Data peminjaman
 									</a>
 								</div>
 							</li>
@@ -108,10 +108,10 @@
 								</a>
 								<div class="dropdown-menu">
 									<a class="dropdown-item" href="input-data-alat.php">
-										Input Data Alat
+										Input data alat
 									</a>
 									<a class="dropdown-item" href="input-data-peminjaman.php">
-										Input Data Peminjaman
+										Input data peminjaman
 									</a>
 								</div>
 							</li>
