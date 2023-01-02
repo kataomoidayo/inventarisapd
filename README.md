@@ -5,9 +5,8 @@ Ini Merupakan Web **Sistem Manajemen Inventaris APD (Alat Pelindung Diri) dengan
 
 ## Fitur
 
-- [x] Registrasi dan Login (Verifikasi email ketika registrasi dan lupa password belum dikonfigurasi karena perlu SMTP (Simple Mail Transfer Protocol)).
+- [x] Registrasi dan Login.
 - [x] Session login dan logout.
-- [x] CRUD (Create, Read, Update, dan Delete).
 - [x] Upload foto alat.
 - [x] Otomatis Generate Kode-QR saat data alat berhasil diinput.
 - [x] Otomatis memeriksa apakah foto alat diganti atau tidak ketika melakukan edit. Jika diganti, foto lama akan dihapus dari data dan penyimpanan lalu akan digantikan dengan foto yang baru. Jika tidak diganti, foto lama akan dipertahankan.
