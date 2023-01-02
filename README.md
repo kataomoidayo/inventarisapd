@@ -48,9 +48,10 @@ Halaman Login.
 
 > <img src="https://user-images.githubusercontent.com/114056087/206891232-2e27d8ab-6d36-420d-af9c-5a2edf1a0eb7.png" width = "800"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/206891241-ad71ae94-d2ad-4183-ad13-f2a002850955.png" width = "800"/>
+> <img src="https://user-images.githubusercontent.com/114056087/208846915-ed809383-40e9-4208-93ec-aeb80a05bdec.png" width = "800"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/206891252-a2f5ce27-288e-4c90-822b-f82299f1a37e.png" width = "800"/>
+> <img src="https://user-images.githubusercontent.com/114056087/208847061-5ce7cf80-b48a-4303-8ca4-f84161d47ed0.png" width = "800"/>
+
 
 
 ===========================================================================
@@ -78,9 +79,8 @@ Halaman Input Data Alat.
 
 
 
-> <img src="https://user-images.githubusercontent.com/114056087/206891377-27865bcb-29a3-4a46-b92e-9f0c391247e6.png" width = "800"/>
+> <img src="https://user-images.githubusercontent.com/114056087/208847645-395f14f1-78e1-4b7c-85ac-bc069bd42fce.png" width = "800"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/206891388-ef38711a-df40-4eb0-b58e-db772578b5b3.png" width = "800"/>
 
 
 ===========================================================================
@@ -91,30 +91,22 @@ Halaman Data Alat/Tabel Data Alat.
 
 
 
-> <img src="https://user-images.githubusercontent.com/114056087/206891564-b7fe1550-93a9-4552-948d-7f1d562b3568.png" width = "800"/>
-
-
+> <img src="https://user-images.githubusercontent.com/114056087/208847879-ed0d9e03-9112-48d2-90aa-5ddac79e7237.png" width = "800"/>
 
 
   #### 4.1 Detail Alat
   Halaman Detail Alat muncul ketika tombol "Detail" pada Data Alat di klik.
   
   
-  
-  > <img src="https://user-images.githubusercontent.com/114056087/206891584-9e280c24-513f-496a-a1c6-7ce47d2e08d1.png" width = "800"/>
-  
-  > <img src="https://user-images.githubusercontent.com/114056087/206891609-203c989b-cbb3-46ce-ba1a-3a084ec50ac5.png" width = "800"/>
+  > <img src="https://user-images.githubusercontent.com/114056087/208848076-8622b378-de77-420f-a194-90bbcb6fb50a.png" width = "800"/>
   
   
   
   #### 4.2 Edit Data Alat
   Halaman Edit Data Alat muncul ketika tombol "Edit" pada Data Alat di klik.
+
   
-  
-  
-  > <img src="https://user-images.githubusercontent.com/114056087/206891647-00a377d8-cf92-479d-b2ff-5c3a1cef6fa5.png" width = "800"/>
-  
-  > <img src="https://user-images.githubusercontent.com/114056087/206891652-af41d9f6-1737-4565-9ec7-95222782b067.png" width = "800"/>
+  > <img src="https://user-images.githubusercontent.com/114056087/208849306-91243ad1-7d35-41ac-9a27-82ffe8dac659.png" width = "800"/>
   
   
   
@@ -132,7 +124,8 @@ Halaman Data Alat/Tabel Data Alat.
 Halaman Input Data Peminjaman.
 
 
-> <img src="https://user-images.githubusercontent.com/114056087/206891789-94115256-e719-44da-89c2-f70c931a9a9d.png" width = "800"/>
+> <img src="https://user-images.githubusercontent.com/114056087/208849703-88e07c9b-df05-4aa2-8b82-27b5d96f6eae.png" width = "800"/>
+
 
 
 ===========================================================================
@@ -141,7 +134,8 @@ Halaman Input Data Peminjaman.
 #### 6. Data Peminjaman
 Halaman Data Peminjaman/Tabel Data Peminjaman.
 
-> <img src="https://user-images.githubusercontent.com/114056087/206891880-d1bba86e-b81b-40d1-b054-8959d1da2f6f.png" width = "800"/>
+
+> <img src="https://user-images.githubusercontent.com/114056087/208849921-5d3bed3a-ed7a-4dfb-9895-24282c03699c.png" width = "800"/>
 
   #### 6.1 Print Full/Print semua data peminjaman ke excel
   Print/Ekspor seluruh data peminjaman yang ada Ke Microsoft Excel
