@@ -178,26 +178,34 @@ Tampilan notifikasi/Alert kustom yang terdapat pada sistem
 Tampilan dari web ketika di akses menggunakan perangkat mobile/ponsel.
 
 
-> <img src="https://user-images.githubusercontent.com/114056087/207663189-e90f1e91-25a5-486d-8528-9e233ea2552b.jpg" width = "200"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/207663237-b73e6fc7-c0aa-47bb-8d4c-b4b8b1b33b89.jpg" width = "200"/>
+> <img src="https://user-images.githubusercontent.com/114056087/210196750-4ff891c1-abb0-4eda-a576-69423cd3ef59.jpg" width = "200"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/207663261-d4ca2bef-158f-4501-ae8a-9ab7c7ccf508.jpg" width = "200"/>
+> <img src="https://user-images.githubusercontent.com/114056087/210196828-a713e2e9-64a3-42b2-899f-01d600ae457e.jpg" width = "200"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/207663289-94381702-92b5-4248-8e10-7c1ae346d51d.jpg" width = "200"/>
+> <img src="https://user-images.githubusercontent.com/114056087/210196851-500696d9-8903-41d5-9449-0a2c395ebc37.jpg" width = "200"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/207663648-52fe2950-9a49-4836-879a-af65f51bae52.jpg" width = "200"/>
+> <img src="https://user-images.githubusercontent.com/114056087/210196885-44d9b631-d392-4fe1-92f6-c482c4c09495.jpg" width = "200"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/207663724-feb1ce2e-d27a-4453-a47a-e60bee252ec9.jpg" width = "200"/>
+> <img src="https://user-images.githubusercontent.com/114056087/210196900-934f83c9-ddcb-48d2-892c-11bde8beb29f.jpg" width = "200"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/207663492-ad31cbfe-2e5e-4476-9be7-5aefd0956d65.jpg" width = "200"/>
+> <img src="https://user-images.githubusercontent.com/114056087/210196913-f4c847cd-11f0-4751-89c8-f6956de9fb5f.jpg" width = "200"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/207663925-e34d04c0-e6cb-4c9f-8806-0308f8ad07f9.jpg" width = "200"/>
+> <img src="https://user-images.githubusercontent.com/114056087/210196956-a8c63479-fc6c-477b-ad3c-9874f66398cc.jpg" width = "200"/>
 
-> <img src="https://user-images.githubusercontent.com/114056087/207663949-022a781e-942d-4ffe-8b9e-9a94e209a146.jpg" width = "200"/>
+> <img src="https://user-images.githubusercontent.com/114056087/210196959-019ae8ac-dfd7-443a-9e02-43ab5e8162f7.jpg" width = "200"/>
 
+> <img src="https://user-images.githubusercontent.com/114056087/210197037-a1645213-1219-4b14-afdb-7365dc4bc864.jpg" width = "200"/>
 
+> <img src="https://user-images.githubusercontent.com/114056087/210197056-91a3527c-dc38-4cfc-ad7f-871b219ddce1.jpg" width = "200"/>
 
+> <img src="https://user-images.githubusercontent.com/114056087/210197058-e7f0bb29-b8fe-4224-b620-c464351d7f9c.jpg" width = "200"/>
 
+> <img src="https://user-images.githubusercontent.com/114056087/210197102-edd6d11c-85ff-424a-95d4-4aed4e85fdd4.jpg" width = "200"/>
 
+> <img src="https://user-images.githubusercontent.com/114056087/210197107-8e74704a-364c-4452-8161-21d6befa0c4b.jpg" width = "200"/>
+
+> <img src="https://user-images.githubusercontent.com/114056087/210197185-51b77f6a-bef9-4bf9-8bd4-54c58b3c627e.jpg" width = "200"/>
+
+> <img src="https://user-images.githubusercontent.com/114056087/210197168-82c682b2-b8e3-4856-947d-d92535aa6b06.jpg" width = "200"/>
 
