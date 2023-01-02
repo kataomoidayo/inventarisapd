@@ -130,7 +130,7 @@ require '../konfigurasi/view-data/konfig-detail-data-alat.php';
 											<tr>
 												<th>Foto Alat</th>
 												<td>
-													<?php echo '<img src="' . $data_alat['foto_alat'] . '" alt="Foto Alat" style="width: 100%; max-width:350px; height:100%; max-height: 350px;"/>'?>
+													<?php echo '<img src="' . $data_alat['foto_alat'] . '" alt="Foto Alat" style="width: 100%; max-width:350px;"/>'?>
 												</td>
 											</tr>
 											<tr>
